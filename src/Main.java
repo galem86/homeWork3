@@ -84,7 +84,6 @@ public class Main {
         int needOneDay = needReset / oneDay;
         System.out.println( " За " + needOneDay + " дней ");
         int needTwyDay = needReset / twyDay;
-        System.out.println(" За " + needTwyDay + " дней"); }}
+        System.out.println(" За " + needTwyDay + " дней");  }
 
-
-
+}
