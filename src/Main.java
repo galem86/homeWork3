@@ -32,7 +32,7 @@ public class Main {
         byte bottle = 16;
         byte time = 2;
         int timeBottle = bottle / time;
-        System.out.println(" колличество " + timeBottle + " бутылок за 1 минуту ");
+        System.out.println(" колличество " + timeBottle + " бутылок за 1 минуту " );
         byte time20 = 20;
         int time1 = timeBottle * time20;
         System.out.println(" За 20 минут машина произвела " + time1 + " штук бутылок ");
